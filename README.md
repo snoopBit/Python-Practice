@@ -4,3 +4,7 @@ This repository is used for practicing some Python codes and projects.
 
 ## Subheader
 Trying things out.
+
+## Local Development
+
+1. Open index.html in your browser.
