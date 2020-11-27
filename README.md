@@ -8,3 +8,4 @@ Trying things out.
 ## Local Development
 
 1. Open index.html in your browser.
+2. Check Github to merge.
